@@ -44,15 +44,15 @@ portfolio/
 
 **Chamatkar Singh**
 
-B.Tech Computer Science Engineering Student
+B.Tech Computer Science & Engineering Student
 
 ## 📧 Contact
 
-Email: your-email@example.com
+Email: chamatkarsingh0262@gmail.com
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/chamatkarsingh
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+LinkedIn: https://linkedin.com/in/CHAMATKAR SINGH
 
 ---
 
