@@ -52,7 +52,7 @@ Email: chamatkarsingh0262@gmail.com
 
 GitHub: https://github.com/chamatkarsingh
 
-LinkedIn: https://linkedin.com/in/CHAMATKAR SINGH
+LinkedIn: https://linkedin.com/in/CHAMATKARSINGH
 
 ---
 
